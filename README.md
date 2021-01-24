@@ -1,0 +1,2 @@
+# Packys freqtrade Strategies
+
