@@ -1,2 +1,2 @@
-# Packys freqtrade Strategies
+# Packys freqtrade Strategies & Hyperopts
 
