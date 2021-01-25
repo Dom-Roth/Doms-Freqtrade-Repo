@@ -10,7 +10,7 @@ import talib.abstract as ta
 import freqtrade.vendor.qtpylib.indicators as qtpylib
 
 
-class Roth01(IStrategy):
+class Roth03(IStrategy):
 
     #  7205/10000:    499 trades. 251/240/8 Wins/Draws/Losses. Avg profit   0.51%. Median profit   0.01%. Total profit  0.00137449 BTC ( 254.47Σ%). Avg duration 746.7 min. Objective: 0.15177
 
